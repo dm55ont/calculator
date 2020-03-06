@@ -1,5 +1,5 @@
 <?php  include('digitron.php'); ?>
-
+<h1>Dodan h1 tag</h1>
 <div id="glavni">
 	<form action="<?php echo htmlentities($_SERVER["REQUEST_URI"]); ?>" method="post">
 
